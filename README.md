@@ -68,7 +68,7 @@ git add .
 ```
 
 ### 7. Commit Your Changes
-Run the following command when you are done with your step:
+Run the following command when you are done with your step and change the message accordingly:
 ```sh
 git commit -m "Step 808 added"
 ```
