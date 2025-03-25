@@ -31,7 +31,9 @@ Image Files: `[PROJECT NAME]_v[NUMBER]`
 - `[PROJECT NAME]`: The name of the project, as found in the folder (e.g. Build_Together)
 - `[NUMBER]`: The number of the step the render is from
 
-Commit Messages:
+Commit Messages: `[PROJECT NAME] Step [NUMBER]`
+- `[PROJECT NAME]`: The name of the project, as found in the folder (e.g. Build_Together)
+- `[NUMBER]`: The number of the step added
 
 ## Commit the changes
 
@@ -62,7 +64,7 @@ git add .
 ### 5. Commit Your Changes
 Run the following command when you are done with your step:
 ```sh
-git commit -m "Step [NUMBER]"
+git commit -m "[PROJECT NAME] Step [NUMBER]"
 ```
 Look at the [Naming schemes](#naming-schemes)
 
@@ -73,7 +75,7 @@ git push
 ```
 If asked for login details, enter your GitHub username and password.
 
-### Done!
+### 7. Done!
 Your files are now saved and uploaded to the repository.
 
 ## First Setup
