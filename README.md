@@ -7,7 +7,7 @@ This repository is used for creating and sharing LEGO build projects collaborati
 Follow these simple steps to save and upload your `.ldr` file changes to the repository.
 
 ### 1. Install Git
-To commit and push changes, you need to install Git first. Follow these steps:
+To commit and push changes to this repository, you need to install Git first. Follow these steps:
 
 #### For Windows:
 1. Download Git from the official website: [https://git-scm.com/download/win](https://git-scm.com/download/win)
