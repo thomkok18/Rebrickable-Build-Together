@@ -85,7 +85,7 @@ Upload the changes by running:
 ```sh
 git push
 ```
-If asked for login details, enter your GitHub username and password (or use an access token if required).
+If asked for login details, enter your GitHub username and password.
 
 ### Done!
 Your files are now saved and uploaded to the repository.
