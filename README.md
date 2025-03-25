@@ -36,38 +36,45 @@ To commit and push changes, you need to install Git first. Follow these steps:
    git --version
    ```
 
-### 2. Open the Windows Terminal
+### 2. Clone the Repository
+Before you can make changes, you need to clone the repository to your local machine. Run the following command in **Git Bash** or **Terminal**:
+```sh
+git clone https://github.com/your-username/repository-name.git
+```
+This will create a copy of the repository on your computer.
+
+### 3. Open the Git Bash
 - If you are using Windows, open the **Git Bash**.
 - If you are using macOS or Linux, open the **Terminal**.
 
-### 3. Navigate to the Repository Folder
+### 4. Navigate to the Repository Folder
 Type the following command and press **Enter**:
 ```sh
 cd path/to/repository
 ```
 Replace `path/to/repository` with the actual folder where you downloaded this repository and point it to the repository itself.
 
-### 4. Check for Changes
+### 5. Check for Changes
 Run:
 ```sh
 git status
 ```
 This will show the modified files.
 
-### 5. Add Your Changes
+### 6. Add Your Changes
 To add all new files you made, run:
 ```sh
 git add .
 ```
 
-### 6. Commit Your Changes
+### 7. Commit Your Changes
 Run the following command when you are done with your step:
 ```sh
 git commit -m "Updated .ldr files"
 ```
 You can change `"Updated .ldr files"` to a short message describing what was changed.
 
-### 7. Push Your Changes
+### 8. Push Your Changes
 Upload the changes by running:
 ```sh
 git push
