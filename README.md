@@ -39,7 +39,7 @@ To commit and push changes, you need to install Git first. Follow these steps:
 ### 2. Clone the Repository
 Before you can make changes, you need to clone the repository to your local machine. Run the following command in **Git Bash** or **Terminal**:
 ```sh
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/thomkok18/Rebrickable-Build-Together.git
 ```
 This will create a copy of the repository on your computer.
 
