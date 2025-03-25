@@ -70,7 +70,7 @@ git add .
 ### 7. Commit Your Changes
 Run the following command when you are done with your step:
 ```sh
-git commit -m "Updated .ldr files"
+git commit -m "Step 808 added"
 ```
 You can change `"Updated .ldr files"` to a short message describing what was changed.
 
