@@ -76,7 +76,7 @@ git push
 If asked for login details, enter your GitHub username and password.
 
 ### 7. Done!
-Your files are now saved and uploaded to the repository.
+Your files are now saved and uploaded to the repository. You can find your commit located in the repository commit list to share it in your post.
 
 ## First Setup
 
