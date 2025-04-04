@@ -6,7 +6,7 @@ This repository is used for creating and sharing LEGO build projects collaborati
 
 To open the .ldr file you need special software that allows you to change the file. The current recommended software that allows you to add steps into the file is called Bricklink Studio.
 - Download te following software: [Bricklink Studio](https://www.bricklink.com/v3/studio/download.page).
-- Open the .ldr file and make your edits. Don't forget to save afterwards.
+- Open the .ldr file and make your edits. Don't forget to save afterwards by using Export as LDraw and overwrite the current .ldr file.
 
 ### Rules
 
