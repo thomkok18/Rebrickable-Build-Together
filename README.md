@@ -118,3 +118,15 @@ Before you can make changes, you need to clone the repository to your local mach
 git clone https://github.com/thomkok18/Rebrickable-Build-Together.git
 ```
 This will create a copy of the repository on your computer.
+
+## FAQ
+
+1. When I try to use the ``git push`` command I get the following:
+
+![GitHub merge conflict](https://github.com/user-attachments/assets/758f4c79-621d-45f5-a15b-dfd18dc1d132)
+What do I need to do?
+
+This happens when somebody else has made changes in the repository on GitHub and your version on your computer is not up-to-date. You have to do the following to update your version:
+* Run ``git pull`` to receive the updates.
+* If you see Merge branch press Esc button and type after that :wq to use the standard merge commit message. Press enter to exit when done.
+* Now you are able to try ``git push`` again.
