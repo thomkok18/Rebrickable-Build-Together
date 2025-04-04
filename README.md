@@ -1,6 +1,6 @@
 # Rebrickable Community Build Together Repository
 
-This repository is used for creating and sharing LEGO build projects collaboratively on the Rebrickable forum. It is a **community-driven** initiative and is **not affiliated** with the official Rebrickable team in any way. For more information head to the Rebrickable forum and go to the [topic](https://forum.rebrickable.com/t/building-together/58702) explaining the rules.
+This repository is used for creating and sharing LEGO build projects collaboratively on the Rebrickable forum. It is a **community-driven** initiative and is **not affiliated** with the official Rebrickable team in any way. For more information head to the Rebrickable forum and go to the [topic](https://forum.rebrickable.com/t/building-together-v2/166766) explaining the rules.
 
 ## Editing the files
 
