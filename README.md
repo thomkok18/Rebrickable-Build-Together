@@ -76,7 +76,9 @@ git push
 If asked for login details, enter your GitHub username and password.
 
 ### 7. Done!
-Your files are now saved and uploaded to the repository. You will find your commit located in the repository commit list and are able to share it in your post.
+Your files are now saved and uploaded to the repository. You will find your commit located at the top of the repository as shown in the image below. Go to the most recent commit by clicking on (for example) 0a2c06, or click on the amount of commits to look through all commits made. Now you are able to share the link of the commit in your post.
+
+![Github commits](https://github.com/user-attachments/assets/d6b529d5-7e04-4369-9cfb-23e21d67599e)
 
 ## First Setup
 
