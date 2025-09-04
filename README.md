@@ -44,9 +44,9 @@ Commit Messages: `[PROJECT NAME] Step [NUMBER]`
 ### 2. Navigate to the Repository Folder
 Type the following command and press **Enter**:
 ```sh
-cd path/to/repository
+cd path/to/repository/Rebrickable-Build-Together
 ```
-Replace `path/to/repository` with the actual folder where you downloaded this repository and point it to the repository itself.
+Replace `path/to/repository/Rebrickable-Build-Together` with the actual folder where you downloaded this repository and point it to the repository (Rebrickable-Build-Together folder) itself.
 
 ### 3. Check for Changes
 Run:
