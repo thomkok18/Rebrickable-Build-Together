@@ -23,9 +23,8 @@ To open the .ldr file you need special software that allows you to change the fi
 
 ### Naming schemes:
 
-LDraw files: `[PROJECT NAME]_v[NUMBER]`
+LDraw files: `[PROJECT NAME]`
 - `[PROJECT NAME]`: The name of the project, as found in the folder (e.g. Build_Together)
-- `[NUMBER]`: The number of the current step
 
 Image Files: `[PROJECT NAME]_v[NUMBER]`
 - `[PROJECT NAME]`: The name of the project, as found in the folder (e.g. Build_Together)
