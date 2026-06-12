@@ -35,7 +35,7 @@ Commit Messages: `[PROJECT NAME] Step [NUMBER]`
 - `[NUMBER]`: The number of the step added
 
 ## Commit the changes
-There are two ways to save your changes to github. Try one or the other based on your preference.
+There are two ways to save your changes to GitHub. Try one or the other based on your preference.
 
 ### Changing the file on GitHub
 Now, the file is changed locally, but not on GitHub. This is the most complicated step in this process. Just follow these substeps:
