@@ -35,46 +35,65 @@ Commit Messages: `[PROJECT NAME] Step [NUMBER]`
 - `[NUMBER]`: The number of the step added
 
 ## Commit the changes
+There are two ways to save your changes to github. Try one or the other based on your preference.
 
-### 1. Open the Git Bash
-- If you are using Windows, open the **Git Bash**.
+### Changing the file on GitHub
+Now, the file is changed locally, but not on GitHub. This is the most complicated step in this process. Just follow these substeps:
+
+- Locate the file in your File Manager (Explorer, Finder, Nautilus, etc.).
+- Right Click > Open With…
+- Select a text editor from that list (e.g. Text Editor, Notepad++, TextEdit, etc.).
+- Once the file is open, hit Ctrl + A to select everything and then Ctrl + C to copy everything.
+- Head back to the file you downloaded earlier from the repository.
+- Click the pencil icon to edit that file.
+- Once in editing mode, hit Ctrl + A and then Ctrl + V to replace everything with your updated version.
+- Click “Commit changes…” and set Build Together Step [XY] as the commit message ([xy] is the current step number).
+- You can leave the Extended description empty. Let the commit email on the default option.
+- Leave the radio select on “Commit directly to the main branch”.
+- Click “Commit changes”.
+
+### Changing the file locally
+To save your changes locally on your computer you need to have Git installed.
+
+#### 1. Open Git Bash
+- If you are using Windows, open **Git Bash**.
 - If you are using macOS or Linux, open the **Terminal**.
 
-### 2. Navigate to the Repository Folder
+#### 2. Navigate to the Repository Folder
 Type the following command and press **Enter**:
 ```sh
 cd path/to/repository/Rebrickable-Build-Together
 ```
 Replace `path/to/repository/Rebrickable-Build-Together` with the actual folder where you downloaded this repository and point it to the repository (Rebrickable-Build-Together folder) itself.
 
-### 3. Check for Changes
+#### 3. Check for Changes
 Run:
 ```sh
 git status
 ```
 This will show the modified files.
 
-### 4. Add Your Changes
+#### 4. Add Your Changes
 To add all new files you made, run:
 ```sh
 git add .
 ```
 
-### 5. Commit Your Changes
+#### 5. Commit Your Changes
 Run the following command when you are done with your step:
 ```sh
 git commit -m "[PROJECT NAME] Step [NUMBER]"
 ```
 Look at the [Naming schemes](#naming-schemes)
 
-### 6. Push Your Changes
+#### 6. Push Your Changes
 Upload the changes by running:
 ```sh
 git push
 ```
 If asked for login details, enter your GitHub username and password.
 
-### 7. Done!
+#### 7. Done!
 Your files are now saved and uploaded to the repository. You will find your commit located at the top of the repository as shown in the image below. Go to the most recent commit by clicking on (for example) 0a2c06, or click on the amount of commits to look through all commits made. Now you are able to share the link of the commit in your post.
 
 ![Github commits](https://github.com/user-attachments/assets/d6b529d5-7e04-4369-9cfb-23e21d67599e)
