@@ -66,34 +66,40 @@ cd path/to/repository/Rebrickable-Build-Together
 ```
 Replace `path/to/repository/Rebrickable-Build-Together` with the actual folder where you downloaded this repository and point it to the repository (Rebrickable-Build-Together folder) itself.
 
-#### 3. Check for Changes
+#### 3. Retrieve the current GitHub changes
+Run:
+```sh
+git pull
+```
+
+#### 4. Check for Changes
 Run:
 ```sh
 git status
 ```
 This will show the modified files.
 
-#### 4. Add Your Changes
+#### 5. Add Your Changes
 To add all new files you made, run:
 ```sh
 git add .
 ```
 
-#### 5. Commit Your Changes
+#### 6. Commit Your Changes
 Run the following command when you are done with your step:
 ```sh
 git commit -m "[PROJECT NAME] Step [NUMBER]"
 ```
 Look at the [Naming schemes](#naming-schemes)
 
-#### 6. Push Your Changes
+#### 7. Push Your Changes
 Upload the changes by running:
 ```sh
 git push
 ```
 If asked for login details, enter your GitHub username and password.
 
-#### 7. Done!
+#### 8. Done!
 Your files are now saved and uploaded to the repository. You will find your commit located at the top of the repository as shown in the image below. Go to the most recent commit by clicking on (for example) 0a2c06, or click on the amount of commits to look through all commits made. Now you are able to share the link of the commit in your post.
 
 ![Github commits](https://github.com/user-attachments/assets/d6b529d5-7e04-4369-9cfb-23e21d67599e)
