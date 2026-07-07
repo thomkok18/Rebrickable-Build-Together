@@ -43,6 +43,8 @@ Contributions are tracked in chronological order based on first appearance in th
 - tmunz
 - Glenner132
 - yqc
+- IanMcG
+- sch0rrsch
 
 ## LEGO Trademark Notice
 
