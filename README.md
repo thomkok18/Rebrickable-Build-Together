@@ -66,13 +66,13 @@ cd path/to/repository/Rebrickable-Build-Together
 ```
 Replace `path/to/repository/Rebrickable-Build-Together` with the actual folder where you downloaded this repository and point it to the repository (Rebrickable-Build-Together folder) itself.
 
-#### 3. Retrieve the current GitHub changes
+#### 3. Retrieve the Current GitHub Changes
 Run:
 ```sh
 git pull
 ```
 
-#### 4. Check for Changes
+#### 4. Check for Local Changes Made
 Run:
 ```sh
 git status
